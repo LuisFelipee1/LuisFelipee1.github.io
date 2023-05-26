@@ -1,0 +1,29 @@
+.letter1 {
+   display: inline-block;
+   background-color: rgb(145, 156, 42);
+   font-family: monospace;
+   font-size: x-large;
+   font-weight: bolder;
+   text-align: center;
+   border-color: rgb(255, 0, 0);
+   right: 100px;
+ }
+ .letter2 {
+   text-align: center;
+ }
+ .letter3 {
+   padding: 10px;
+   background-color: rgb(145, 156, 42);
+ }
+ .letter4 {
+   font-family: monospace;
+   font-size: large;
+   background-color: rgb(58, 90, 10);
+   
+ }
+ .letter5 {
+    
+ }
+ .letter6 {
+    
+ }
